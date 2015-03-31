@@ -1,3 +1,9 @@
+I'm Nathan, and this is my blog.
+
+I forked this from Lanyon, a Jekyll theme.
+
+I'll keep the README.md intact below this line while I get used to it.
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
