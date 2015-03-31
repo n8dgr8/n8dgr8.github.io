@@ -9,7 +9,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               n8dgr8
+title:               Unpopular Mechanic
 tagline:             'Some Rants'
 description:         ''
 url:                 http://n8dgr8.github.io
@@ -18,9 +18,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Nathan S
+  name:              n8dgr8
   url:               https://twitter.com/the_real_n8dgr8
   email:             nschlehlein@pillartechnology.com
 
 # Custom vars
-version:             1.0.0
+version:             Mk.82
